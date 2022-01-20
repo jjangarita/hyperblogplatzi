@@ -1,0 +1,26 @@
+body {
+    color: brown;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    width: 70%;
+    padding: 1em;
+    border: red;
+    border-radius: 5px;
+    margin: 0 auto;
+}
+
+#textsection {
+    text-align: left;
+    font-size: larger;
+    color: green;  
+}
+
+#linkmoonapp {
+    text-align: right;
+}

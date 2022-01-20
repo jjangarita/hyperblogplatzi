@@ -10,15 +10,16 @@ body {
 #container {
     width: 70%;
     padding: 1em;
-    border: red;
+    border: gray;
     border-radius: 5px;
     margin: 0 auto;
+    background-color: aqua;
 }
 
 #textsection {
     text-align: left;
     font-size: larger;
-    color: green;  
+    color: darkblue;  
 }
 
 #linkmoonapp {
